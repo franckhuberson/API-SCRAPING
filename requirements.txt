@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+newspaper4k
+pymongo
+python-dotenv
+lxml
